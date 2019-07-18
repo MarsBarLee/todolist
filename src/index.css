@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-  display: flex;
+  display: block;
   justify-content: flex;
 }
 
@@ -16,3 +16,4 @@ button {
 input {
   margin-left: 10px;
 }
+
